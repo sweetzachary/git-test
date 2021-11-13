@@ -1,1 +1,3 @@
-Hello, this is my first git project!
+# git-test
+My first github repo!
+Hello Odin!
